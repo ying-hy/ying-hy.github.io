@@ -1,69 +1,85 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+    "name": "Ying Huang",
+    "label": "Ph.D.",
+    "image": "../img/me.jpg",
+    "email": "ying_huang@zju.edu.cn",
+    "url": "https://ying-huang.info/",
+    "summary": "Photonics whizz turning light into computational power.",
+    "profiles": [{
+      "network": "Research Gate",
+      "username": "Ying_Huang82",
+      "url": "https://www.researchgate.net/profile/Ying_Huang82/"
+    }]},
+  "education": [
+    {
+      "institution": "Zhejiang University, Hangzhou, China",
+      "url": "https://www.zju.edu.cn/",
+      "area": "Electronic and Communication Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2018-09-01",
+      "endDate": "Present",
+      "score": "",
+      "courses": ""
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+    {
+      "institution": "Anhui Normal University, Hefei, China",
+      "url": "https://www.ahnu.edu.cn/",
+      "area": "Electronic Information Engineering",
+      "studyType": "Undergraduate",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-30",
+      "score": "4.85/5.0",
+      "courses": ""
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "China Electronics Technology Group Corporation",
+      "position": "Technical Internership",
+      "url": "http://www.stl.com.cn/",
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-01",
+      "summary": "Developed silicon-based PIN electro-optic switches and device combination systems, realizing Sigmoid and ReLU activation functions. Achieved over 95% recognition accuracy on MNIST data through application of photonic neural networks.",
       "highlights": [
-        "Relativity"
+        "Single-Layer Optical Network Chips and Nonlinear Module Technology"
+      ]
+    },
+    {
+      "name": "Huawei Technologies Co., Ltd",
+      "position": "Technical Lead",
+      "url": "https://www.huawei.com/en/",
+      "startDate": "2020-09-01",
+      "endDate": "2022-12-01",
+      "summary": "Led system research on silicon-based MZI arrays and designed silicon-based electro-optic switch units. Achieved successful routing switch of a 56G OOK high-frequency signal.",
+      "highlights": [
+        "Fast Wavelength Switching Optical Transceiver Technology."
       ]
     }
   ],
   "volunteer": [],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [{
+    "name": "Photonics",
+    "level": "Master"
+  }, {
+    "name": "Silicon Photonics",
+    "level": "Master"
+  }, {
+    "name": "Optical Switching",
+    "level": "Master"
+  }, {
+    "name": "Fabrication",
+    "level": "Master"
+  }, {
+    "name": "Integrated Optics",
+    "level": "Master"
+  }],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker"
     },
     {
@@ -71,7 +87,7 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": [{"name": "jogging"}, {"name": "travel"}],
   "references": [],
   "projects": []
 }
