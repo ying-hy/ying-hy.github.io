@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Programmable low-threshold optical nonlinear activation functions for photonic neural networks" [ [link](https://opg.optica.org/ol/abstract.cfm?uri=ol-47-7-1810/)] is published in Optics Letters.
+Our paper "Programmable low-threshold optical nonlinear activation functions for photonic neural networks" [[link](https://opg.optica.org/ol/abstract.cfm?uri=ol-47-7-1810/)] is published in Optics Letters.
