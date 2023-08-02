@@ -140,7 +140,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: Hank0626/hank0626.github.io     # <your-github-user-name>/<your-github-repo-name>
+  repo: ying-hy/ying-hy.github.io     # <your-github-user-name>/<your-github-repo-name>
   repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
