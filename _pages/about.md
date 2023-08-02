@@ -9,7 +9,7 @@ profile:
   image: me.jpg
   image_circular: True # crops the image to make it circular
   address: >
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9wn7EZXJAuGy5a1duxkjAIOSnioCRsia62mB6kXtA3Q&cl=ffffff&w=a"></script>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9wn7EZXJAuGy5a1duxkjAIOSnioCRsia62mB6kXtA3Q&cl=ffffff&w=a"></script>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
