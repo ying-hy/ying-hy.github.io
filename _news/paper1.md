@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Easily Scalable Photonic Tensor Core Based on Tunable Units with Single Internal Phase Shifters" [[link](https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202300001/)] is published in Laser & Photonics Reviews.
+<i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper *Easily Scalable Photonic Tensor Core Based on Tunable Units with Single Internal Phase Shifters* is published in Laser & Photonics Reviews.
