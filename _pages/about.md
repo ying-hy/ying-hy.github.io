@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D.@<a href='https://www.zju.edu.cn/'>ZJU</a>
 
