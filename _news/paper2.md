@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Parallel photonic acceleration processor for matrix-matrix multiplication." [[link](https://opg.optica.org/ol/upcoming_pdf.cfm?id=488464/)] is published in Optics Letters.
+<i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper *Parallel photonic acceleration processor for matrix-matrix multiplication* is published in Optics Letters.
